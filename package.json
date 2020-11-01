@@ -1,5 +1,5 @@
 {
-	"name": "@tonejs/midi",
+	"name": "motniemtin/midijs",
 	"version": "2.0.0",
 	"description": "Convert binary midi into JSON",
 	"main": "build/Midi.js",
